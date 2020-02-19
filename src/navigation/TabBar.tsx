@@ -114,7 +114,6 @@ const shadowStyle = {
   },
   shadowOpacity: 0.22,
   shadowRadius: 2.22,
-  elevation: 25,
 };
 
 const styles = StyleSheet.create({
@@ -139,7 +138,7 @@ const styles = StyleSheet.create({
   navigator: {
     borderTopWidth: 0,
     backgroundColor: 'transparent',
-    elevation: 0
+    elevation: 30
   },
   navigatorTab: {}
 });
